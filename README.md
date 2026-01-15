@@ -9,7 +9,7 @@
         body { font-family: "American Typewriter", "Courier New", Courier, serif; }
         .option-card { transition: all 0.2s; cursor: pointer; -webkit-tap-highlight-color: transparent; }
         .correct { background-color: #22c55e !important; color: white !important; border-color: #16a34a !important; }
-        .wrong { background-color: #000000 !important; color: black !important; border-color: #000000 !important; }
+        .wrong { background-color: #000000 !important; color: black !important; border-color: #e56f34 !important; }
         input, textarea { font-family: sans-serif; }
     </style>
 </head>
